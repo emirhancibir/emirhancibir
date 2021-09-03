@@ -1,5 +1,6 @@
+# Merhaba, ben Emirhan Cibir!
 
-#
+
 [![GitHub followers](https://img.shields.io/github/followers/emirhancibir?style=social)](https://github.com/emirhancibir?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/emirhancibir?style=social)
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Femirhancibir.emirhancibir%2Freadme)
@@ -22,6 +23,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
 
 
 </p>
@@ -29,3 +32,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emirhancibir&show_icons=true&locale=en&layout=compact" alt="emirhancibir" />
 </p>
+
