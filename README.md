@@ -1,4 +1,4 @@
-# Merhaba, ben Emirhan Cibir!
+# Merhaba, ben Emirhan Cıbır!
 
 
 [![GitHub followers](https://img.shields.io/github/followers/emirhancibir?style=social)](https://github.com/emirhancibir?tab=followers)
