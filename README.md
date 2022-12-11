@@ -18,13 +18,14 @@
 
 ## Languages and tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/195px-OpenCV_Logo_with_text.png" alt="drawing" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="40" height="40" />
+  
 
 
 </p>
